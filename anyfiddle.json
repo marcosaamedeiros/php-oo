@@ -1,0 +1,7 @@
+{
+  "openFiles": [
+      "main.php",
+      "diarista.php"
+  ],
+  "defaultCommand": "php diarista.php"
+}
